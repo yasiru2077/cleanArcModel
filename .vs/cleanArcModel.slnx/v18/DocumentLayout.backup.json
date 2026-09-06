@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\cleanArcModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D107974-3A8B-47CB-8F22-47FB76964741}|cleanArcModel\\cleanArcModel.csproj|d:\\.net\\cleanarcmodel\\cleanarcmodel\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D107974-3A8B-47CB-8F22-47FB76964741}|cleanArcModel\\cleanArcModel.csproj|solutionrelative:cleanarcmodel\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\.net\\cleanArcModel\\cleanArcModel\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "cleanArcModel\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\.net\\cleanArcModel\\cleanArcModel\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "cleanArcModel\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T07:51:41.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
